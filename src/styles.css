@@ -26,6 +26,7 @@ h2 { font-size:clamp(2.5rem,5vw,5rem); letter-spacing:-.055em; line-height:.98; 
 .card { min-height:540px; padding:2rem; border-right:1px solid var(--line); border-bottom:1px solid var(--line); display:flex; flex-direction:column; }
 .card-head { display:flex; justify-content:space-between; }
 .card h3 { font-size:2rem; margin:3rem 0 1rem; }
+.card h3 small { display:block; margin-top:.45rem; color:var(--blue); font-size:.68rem; font-weight:600; letter-spacing:.12em; text-transform:uppercase; }
 .card>p:not(.formula) { color:var(--muted); line-height:1.6; min-height:78px; }
 label { display:block; margin-top:1rem; color:#c7cbd2; font-size:.78rem; text-transform:uppercase; letter-spacing:.08em; }
 label span { float:right; color:var(--muted); }
