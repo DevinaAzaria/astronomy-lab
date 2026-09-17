@@ -2,8 +2,10 @@
 
 An interactive student laboratory for exploring astronomy through transparent, testable calculations.
 
+> **Ringkasan Indonesia:** Astronomy Lab adalah laboratorium interaktif untuk mempelajari fisika bintang, jarak benda langit, dan gerak orbit. Bahasa Indonesia digunakan sebagai bahasa utama pada antarmuka, dengan istilah ilmiah Inggris sebagai padanan untuk membantu pembelajaran dan literasi internasional.
+
 **Author:** Devina Azaria  
-**Status:** v0.1.0 — foundational release  
+**Status:** v0.1.1 — bilingual interface release  
 **Focus:** astronomy, physics, scientific computing, and research communication
 
 ## Why this project exists
